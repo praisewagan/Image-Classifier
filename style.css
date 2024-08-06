@@ -1,0 +1,23 @@
+body
+{
+    background-color: #bdffee;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+   background-color: black;
+    border-radius: 10px;
+    border-style: inset;
+    box-shadow: (5px 5px 5px lightblue)
+}
+
+#result
+{
+    width:360px;
+    height: 250px;
+    background-color: white;
+    border:1px solid grey;
+    border-radius: 10px;
+}
